@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/RUMirNul/" target="_blank">Alexey</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h3 align="center">Computer science student</h3>
 
-<!--
-**RUMirNul/RUMirNul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![codewars](https://www.codewars.com/users/RUMirNul/badges/small)](https://www.codewars.com/users/RUMirNul)
+### About me:
 
-Here are some ideas to get you started:
+- 📚 Student of Tver State University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m currently learning **Java, Spring, PostgeSQL, MongoBD, Backend**
+
+- 🌍 I speak Russian (native), English (B2)
+
+- 🔮 Looking for a job 👉👈
+
+### Connect with me:
+<p align="left">
+  <a href="https://t.me/RuMirNul" target="blank"><img align="center" src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/4a3e854bd9829b789e682d9ad00ec248ff8f09df/icons/VK.svg" alt="RuMirNul" height="40" width="40" /></a>
+  <a href="https://vk.com/rumirnul" target="blank"><img align="center" src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/5a8fdf67758eccdcfbb715315580be4f5144d2d0/icons/Telegram.svg" alt="RuMirNul" height="40" width="40" /></a>
+  <a href="https://instagram.com/alex_notshy" target="blank"><img align="center" src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/2b5f0f9c7ddce7ad9b60738ef538aebcc4f4d9ca/icons/Instagram.svg" alt="alex_notshy" height="40" width="40" /></a>
+  <a href="https://github.com/RuMirNul" target="blank"><img align="center" src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/a45d66350da24e3f61e2aefedf952376385e14df/icons/GitHub.svg" alt="RuMirNul" height="40" width="40" /></a>
+</p>
+
+### Languages:
+<p align="left"> 
+<a href="https://javarush.ru/users/2783728" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/4a3e854bd9829b789e682d9ad00ec248ff8f09df/icons/Java.svg" alt="Java" width="40" height="40"/> </a> 
+<a href="https://github.com/RUMirNul/RUMirNul" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/5a8fdf67758eccdcfbb715315580be4f5144d2d0/icons/C%2B%2B.svg" alt="cplusplus" width="40" height="40"/> </a>  
+</p>
+
+### Tools:
+<p align="left"> 
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/4a3e854bd9829b789e682d9ad00ec248ff8f09df/icons/IntelliJ_IDEA.svg" alt="IntelliJ_IDEA" width="40" height="40"/></a> 
+  <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/a45d66350da24e3f61e2aefedf952376385e14df/icons/CLion.svg" alt="Clion" width="40" height="40"/> </a> 
+  <a href="visualstudio.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/a45d66350da24e3f61e2aefedf952376385e14df/icons/VisualStudio.svg" alt="VisualStudio" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/a15c53008be38630442296ea0ee98f2cd511d15f/icons/Spring.svg" alt="Spring" width="40" height="40"/> </a>  
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/a15c53008be38630442296ea0ee98f2cd511d15f/icons/MySQL.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/a45d66350da24e3f61e2aefedf952376385e14df/icons/GitHub.svg" alt="GitHub" width="40" height="40"/> </a> 
+</p> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuMirNul)](https://github.com/anuraghazra/github-readme-stats)
