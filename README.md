@@ -7,11 +7,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - 📚 Student of Tver State University
 
-- 💻 I’m currently learning **Java, Spring, PostgeSQL, MongoBD, Backend**
+- 💻 Currently learning **Java, Spring, PostgeSQL, MongoBD, Backend**
 
 - 🌍 I speak Russian (native), English (B2)
 
-- 🔮 Looking for a job 👉👈
+- 🔮 Looking for a job
 
 ### Connect with me:
 <p align="left">
