@@ -32,4 +32,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/a45d66350da24e3f61e2aefedf952376385e14df/icons/GitHub.svg" alt="GitHub" width="40" height="40"/> </a> 
 </p>
 
+### Education:    
+- **Full course JavaRush**  [Profile](https://javarush.ru/users/2783728)  [Course program](https://javarush.ru/quests)
+- **Java. Base course**  [Certificate](https://stepik.org/cert/1501555)  [Course program](https://stepik.org/course/187/syllabus)
+- **SQL**  [Certificate](https://stepik.org/cert/1522752)  [Course program](https://stepik.org/course/63054/syllabus)
+- **Spring for begginers** (**in progress**)  [Course program](https://www.udemy.com/course/spring-framework/)
+- **Spring practice** (**in progress**)  [Course program](https://www.udemy.com/course/jee-my-resume/)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuMirNul)](https://RuMirNul)
