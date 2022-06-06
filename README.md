@@ -33,7 +33,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 ### Education:    
-- **Full course JavaRush**  [Profile](https://javarush.ru/users/2783728)  [Course program](https://javarush.ru/quests)
+- **Full course JavaRush**  [Profile](https://javarush.ru/users/2783728)  [Course program](https://javarush.ru/quests)  [Project](https://github.com/RUMirNul/JavaRushTaskCourse)
 - **Java. Base course**  [Certificate](https://stepik.org/cert/1501555)  [Course program](https://stepik.org/course/187/syllabus)
 - **SQL**  [Certificate](https://stepik.org/cert/1522752)  [Course program](https://stepik.org/course/63054/syllabus)
 - **Spring for begginers** (**in progress**)  [Course program](https://www.udemy.com/course/spring-framework/)
