@@ -7,7 +7,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - 📚 Student of Tver State University
 
-- 💻 Currently learning **Java, Spring, PostgeSQL, MongoBD, Backend**
+- 💻 Currently learning **Java, Spring, MySQL, Hibernate, Backend**
 
 - 🌍 I speak Russian (native), English (B2)
 
@@ -27,7 +27,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <a href="https://javarush.ru/users/2783728" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/4a3e854bd9829b789e682d9ad00ec248ff8f09df/icons/Java.svg" alt="Java" width="40" height="40"/> </a>  
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/4a3e854bd9829b789e682d9ad00ec248ff8f09df/icons/IntelliJ_IDEA.svg" alt="IntelliJ_IDEA" width="40" height="40"/></a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/a15c53008be38630442296ea0ee98f2cd511d15f/icons/Spring.svg" alt="Spring" width="40" height="40"/> </a>  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/fd745075a92a8642a99e5e54e030ef9403fee88c/icons/Hibernate.svg" alt="Hibernat" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/a15c53008be38630442296ea0ee98f2cd511d15f/icons/MySQL.svg" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/RUMirNul/RUMirNul/a45d66350da24e3f61e2aefedf952376385e14df/icons/GitHub.svg" alt="GitHub" width="40" height="40"/> </a> 
 </p>
