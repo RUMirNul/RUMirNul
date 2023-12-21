@@ -7,7 +7,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 - 📚 Student of Tver State University
 
-- 💻 Currently learning **Java, Spring, MySQL, Hibernate, Backend**
+- 💻 Currently learning **Java, Spring, PostrgeSQL, Hibernate, Backend**
 
 - 🌍 I speak Russian (native), English (B2)
 
